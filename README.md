@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Akshaj Darbar!
-- 👀 I’m interested in biomedical research, specifically in the human longevity, immunology, and cancer therapeutics spaces.
-- 🏫 I’m currently studying biomedical computing at Queen's University.
-- 🔬 I'm the Chief of Science @ [Biotein](https://bioteinresearch.ca/) where we're developing saliva-based bio-age tests, and a Research Assistant @ the Rauh Lab, where I'm investigating the epigenetic profiles of pre-cancerous phenotypes.
-- 📫 Find out more about me on my [personal website](https://akshajdarbar.com/) or on my [LinkedIn](https://linkedin.com/in/akshaj-darbar).
+👋 Hey! I'm an 18-year old student exploring the intersection between human longevity, immunology, and cancer, with a dream to eradicate age-related diseases and develop prophylactic (preventative) vaccines for cancer.
+
+🔬 I am currently working as a research assistant at the Rauh lab at Queen's University to explore the association between clonal hematopoiesis of indeterminate potential (CHIP) and chronic kidney disease (CKD), the epigenetic profile of CHIP, and the effect of the epigenetic profile of CHIP on CKD progression and severity.
+
+🎂 I am also the Chief Scientific Officer and part of the co-founding team at Biotein, a longevity startup aimed at eradicating age-related diseases. We are currently developing a protein-based saliva bio-age test to equip the general population with the information necessary to improve their health and extend their healthspan. In the future, Biotein plans to expand into developing preventative therapies for dementias, which affects 50 million people worldwide, with 10 million new patients every year.
+
+💉 As a passion project, I am also exploring the potential of immunotherapies directed against cancer stem cells (CSCs) to prevent cancer relapse and as prophylactic vaccines against cancer.
+
+🏫 Studying Biomedical Computing at Queen's University.
+
+📫 Find out more about me on my [personal website](https://akshajdarbar.com/) or on my [LinkedIn](https://linkedin.com/in/akshaj-darbar).
 
 <!---
 AkshajD/AkshajD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
