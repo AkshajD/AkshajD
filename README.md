@@ -1,4 +1,4 @@
-👋 Hey! I'm an 18-year old student exploring the intersection between human longevity, immunology, and cancer, with a dream to eradicate age-related diseases and develop prophylactic (preventative) vaccines for cancer.
+👋 Hey! I'm a 20-year old student exploring the intersection between human longevity, immunology, and cancer, with a dream to eradicate age-related diseases and develop prophylactic (preventative) vaccines for cancer.
 
 🔬 I am currently working as an undergraduate researcher at the Rauh lab at Queen's University to investigate the epigenetic profile of clonal hematopoiesis of indeterminate potential (CHIP), and observe the combined effect of accelerated epigenetic ageing and CHIP on the onset of chronic kidney disease (CKD).
 
