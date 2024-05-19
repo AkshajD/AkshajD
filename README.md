@@ -6,7 +6,7 @@
 
 💉 As a passion project, I am also exploring the potential of immunotherapies directed against cancer stem cells (CSCs) to prevent cancer relapse and as prophylactic vaccines against cancer.
 
-🏫 Studying Biomedical Computing at Queen's University.
+🏫 Studying Medicine at McMaster University.
 
 📫 Find out more about me on my [personal website](https://akshajdarbar.com/) or on my [LinkedIn](https://linkedin.com/in/akshaj-darbar).
 
